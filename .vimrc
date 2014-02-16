@@ -5,7 +5,19 @@ set tabstop=8 expandtab shiftwidth=4 softtabstop=4
 set smartindent
 set ruler
 
-"colorscheme distinguished "dark background
+
+"--------------------
+"Dark backgrounds
+"--------------------
+
+"colorscheme distinguished 
+"colorscheme twilight 
+"colorschmee vividchalk
+
+"--------------------
+"Light backgrounds
+"--------------------
 colorscheme github "light background
+
 
 
